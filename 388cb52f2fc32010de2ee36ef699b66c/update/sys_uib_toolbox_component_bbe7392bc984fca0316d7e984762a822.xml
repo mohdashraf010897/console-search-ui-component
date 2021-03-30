@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_toolbox_component">
+    <sys_uib_toolbox_component action="INSERT_OR_UPDATE">
+        <description>A now-ui component for custom agent assist</description>
+        <external_configuration_sources/>
+        <icon>document-outline</icon>
+        <label>Console Search App</label>
+        <macroponent display_value="Console Search App">ca9e12d74836c860466fd3f9db07a78b</macroponent>
+        <sys_class_name>sys_uib_toolbox_component</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-30 11:07:12</sys_created_on>
+        <sys_id>bbe7392bc984fca0316d7e984762a822</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Console Search App</sys_name>
+        <sys_package display_value="search-console-app" source="x_558853_search_0">388cb52f2fc32010de2ee36ef699b66c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="search-console-app">388cb52f2fc32010de2ee36ef699b66c</sys_scope>
+        <sys_update_name>sys_uib_toolbox_component_bbe7392bc984fca0316d7e984762a822</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-30 11:07:12</sys_updated_on>
+    </sys_uib_toolbox_component>
+    <sys_translated_text action="delete_multiple" query="documentkey=bbe7392bc984fca0316d7e984762a822"/>
+</record_update>
